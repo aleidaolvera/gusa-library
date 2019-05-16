@@ -3,9 +3,9 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: Library
-  prettyName: Team Library
-  org: Your Organization
+  name: T.R.A.P. GUSA Open Documents
+  prettyName: T.R.A.P. GUSA
+  org: GUSA '19-'20
   icon: /assets/images/icon-logo.svg
   favicon: /assets/images/gusa.ico
 
