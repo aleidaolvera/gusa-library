@@ -3,23 +3,23 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: GUSA Public Documents
-  prettyName: TRAP GUSA
+  name: T.R.A.P. GUSA Open Documents
+  prettyName: T.R.A.P. GUSA
   org: GUSA '19-'20
   icon: /assets/images/icon-logo.svg
   favicon: /assets/images/gusa.ico
 
 # pages/categories, pages/index, partials/search
 landing:
-  tagline: Welcome to the GUSA '19-'20's public documents!
+  tagline: Welcome to the T.R.A.P. GUSA administration's public documents. 
   viewAll: View All
   quickLink: <a href="/get-started">Get Started.</a>
 
 
 # partials/footer
 footer:
-  helpText: Questions? Contact the GUSA Executive Team.
-  defaultEmail: gusa@georgetown.edu
+  helpText: Questions? Contact your organization's administrators.
+  defaultEmail: user@your_organization.com
   buttons:
     edit: Edit This Page
     move: Move This Page
